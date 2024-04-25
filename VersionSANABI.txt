@@ -1,2 +1,6 @@
+v1.3.33
+https://github.com/zuguotaku/AowVNSANABI/releases/download/SANABIVH/Sanabi.v1.0.v1.3.33.7z
+v1.3.32 -> 1.3.33
+https://github.com/zuguotaku/AowVNSANABI/releases/download/SANABIVH/Sanabi.v1.0.v1.3.32-v1.3.33.7z
 v1.3.32
 https://github.com/zuguotaku/AowVNSANABI/releases/download/SANABIVH/SANABIVH-v1.3.32.7z
